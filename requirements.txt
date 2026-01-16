@@ -1,8 +1,7 @@
 ipykernel
+numpy==1.26.4
 pandas
-numpy
 matplotlib
 scikit-learn
-tensorflow
+tensorflow==2.15.0
 tensorflow_datasets
-torch
